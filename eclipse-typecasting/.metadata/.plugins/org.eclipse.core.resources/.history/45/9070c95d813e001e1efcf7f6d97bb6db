@@ -1,0 +1,20 @@
+package explicit;
+
+public class char1 {
+
+	public static void main(String[] args) {
+		char c='A';
+		int a=c;
+	System.out.println(a);
+	long b=c;
+	System.out.println(b);
+	float d=c;
+	System.out.println(d);
+	double e=c;
+	System.out.println(e);
+    boolean f=c;
+    System.out.println(f);
+
+	}
+
+}
